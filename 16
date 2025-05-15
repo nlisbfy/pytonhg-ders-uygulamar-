@@ -1,0 +1,3 @@
+sayılar= ( 1,2,3,4,5)
+toplam = sum (sayılar)
+print (f"Liste elemanlarının toplamı:(toplam)
