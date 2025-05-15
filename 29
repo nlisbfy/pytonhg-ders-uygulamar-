@@ -1,0 +1,3 @@
+Sayılar = ( 1,2,3,4,5)
+sayılar,reverse ()
+print (f"Ters çevrilmiş liste :(sayılar)
