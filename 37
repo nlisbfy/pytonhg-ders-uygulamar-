@@ -1,0 +1,6 @@
+sayılar = ( 12,34,56,78,90)
+eleman = int ( input ("Aradığınız sayıyı girin:"))
+İF ELEMAN in sayılar:
+   print ( f"(ELEMAN)sayısı listede bulunmaktadır.")
+Else:
+    print (f"(Eleman)sayısı listede bulunmamaktadır.")
