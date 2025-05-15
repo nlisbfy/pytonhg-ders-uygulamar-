@@ -1,0 +1,3 @@
+METİN= İnput ("Bir metin girin")
+Karakter_sayısı = len (metin)
+Print (f"Metnin karakter sayısı : (karakter_sayısı)")
