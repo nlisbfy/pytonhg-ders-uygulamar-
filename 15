@@ -1,0 +1,6 @@
+izin= input ("Giriş yapmak için izin vermiyormusun?)
+(evet/hayır):").LOWER()
+İF İZİN == "EVEt"
+  print ("Giriş başarılı")
+  ELSE:
+  Print("Giriş reddedildi.")
