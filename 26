@@ -1,0 +1,4 @@
+Ad= input ("Adınızı girim")
+Soyad= input ( "Soyadınızı girin:")
+İLK_HARFLER = ad (0) + soyad (0)
+print (f"İlk harfler : (ilk_harfler)")
