@@ -1,0 +1,8 @@
+SAYILAR = (15,24,37,40,55,60)
+TeK_sayılar=()
+çift_sayılar=()
+for sayı in sayılar :
+  if sayı % 2 ==0:
+   çift_sayılar_append(sayı)
+print(f"Çift sayılar:(çift_sayılar)")
+PRİNT(F"tek sayılar : ( tek_sayılar)")
