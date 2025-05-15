@@ -1,0 +1,7 @@
+Sayı = float ( input ( "Bir sayı girin:"))
+İf sayı > 0 :
+  print ("Pozitif sayı")
+Elif sayı < 0 : 
+   print (" Negatif sayı")
+else:
+   print ("Sıfır")
