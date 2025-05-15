@@ -1,0 +1,6 @@
+def topla (sayı 1,sayı 2):
+  return sayı 1+SAYI 2
+NUM 1 = FLOAT (input("Birinci sayıyı girin.")
+NUM 2= FLOAT (input("İkinci sayıyı girin.")
+SONUÇ = topla (num1,num 2)
+print ( f"Toplam:(sonuç)")
