@@ -1,0 +1,3 @@
+Sayı= float ( input ("Bir sayı girin"))
+MODÜL = abs (sayı)
+print (f"(SAYI)sayısının modülü :(modül)")
