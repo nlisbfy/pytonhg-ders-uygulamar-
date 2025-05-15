@@ -1,0 +1,8 @@
+sözlük = ("A": 1 "B": 2, "c": 3)
+ANAHTAR = input ("SİLMEK İSTEDİĞİNİZ ANAHTARI GİRİN:")
+if anahtar in sözlük 
+   del sozluk (anahtar)
+   print (f"(anahtar)anahtarı silmek.")
+Else:
+    print ("anahtar bulunamadı.")
+Print (sozluk)
