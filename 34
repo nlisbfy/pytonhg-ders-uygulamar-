@@ -1,0 +1,3 @@
+Sayılar = (45,23,12,56,78,9)
+en_küçük = min (sayılar)
+print (F"listede bulunan en küçük sayı:(en_küçük)")
