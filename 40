@@ -1,0 +1,4 @@
+sayı 1 = float ( input ( "Birinci sayıyı girin:"))
+SAYI 2 = Float ( input ("İkinci sayıyı girin:")
+bolüm= sayı 1 / sayı 2 
+print (F"girdiğiniz sayıların bölümü : (bölüm)")
