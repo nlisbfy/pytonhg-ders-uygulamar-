@@ -1,0 +1,7 @@
+doğum_yılı= int (input ("Doğum yılınızı girin))
+bugün_yıl= 2025
+yas = bugün_yıl_doğum_yılı
+if yas> = 18 :
+  print ( "Yasal yaştasınız")
+ELSE:
+   PRİNT("yasal yasa ulaşamadınız")
