@@ -1,0 +1,27 @@
+print("yapmak istediğiniz işlemi seçin:")
+print("1. SAYI POZİTİF Mİ?)
+print("2. sayı negatif mi?)
+print("3. sayıyı kaç katı ile çarptığınızı göster")
+PRİNT("4. sayının nkaresini hesaplama")
+PRİNT("5. programdan çık")
+SECİM = input ( "Seçimlerinizi yapın(1/2/3/4/5):")
+sayı = float (input ("BİR SAYI GİRİN:"))
+if seçim == "1":
+   if sayı>0:
+    print ("Bu pozitif bir sayı sayıdır")
+ELSE:
+   PRİNT("bu pozitif bir sayı değildir.")
+ELİF SEÇİM == "2"
+   İf sayı < 0:
+    PRİNT ("bu bir negatif sayıdır.")
+  ELSE:
+    PRİNT("bu bir negatif degildir.")
+ elif seçim ==   "3" :
+    KATI = FLOAT (İNPUT("kaç katı ile çarpmak istersiniz?)
+    print (f"(SAYI) sayısının(KATI) KATI: (sayı*KATI)")
+elif seçim== "4"
+  print(f"(SAYI)sayısının karesi: sayı ** 2 ")
+elif seçim == "5"
+  print("PROGRAMDAN ÇIKILIYOR...")
+  else:
+  print("GEÇERSİZ GİRİŞ")
