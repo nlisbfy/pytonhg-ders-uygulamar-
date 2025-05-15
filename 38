@@ -1,0 +1,3 @@
+Metin = input ("Bir metin girin")
+Uzunluk = len ( metin)
+print (f"Girdiğiniz metnin uzunluğu : (uzunluk)")
