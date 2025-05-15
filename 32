@@ -1,0 +1,5 @@
+sayı = İNT (İnput("Bir sayı girin.")
+Faktöriyel = 1
+for i in range ( 1,sayı + 1)
+faktöriyel * = 1 
+Print (f"(Sayı)sayısının faktöriyel değeri:(faktöriyel)")
