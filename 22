@@ -1,0 +1,4 @@
+AD = İNPUT ( "Adınızı girin:")
+SOyad = input ("SOyadınızı girin:")
+TAM _ad = + ""+ soyad
+print ( f"Tam adınız:(tam _ad")
