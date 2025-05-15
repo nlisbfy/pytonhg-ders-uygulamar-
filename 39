@@ -1,0 +1,3 @@
+SAYILAR = (10,20,30,40,50)
+ortalama = sum (sayılar) / len (sayılar)
+print ( f"SAYILARDAN OLUŞAN LİSTENİN ORTALAMASI : (ortalama)")
