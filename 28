@@ -1,0 +1,5 @@
+SAYI = İnt (input ("Bir sayı girin:")
+İF SAYI % 10 == 0:
+  Print (" Bu sayı 10'a bölünebilir.")
+ELSE:
+    PRİNT("bu sayı 10'a bölünemez.")
