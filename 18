@@ -1,0 +1,3 @@
+SAYI = float ( input ("bir sayı girin:")
+KUP = sayı **3
+print (f"(SAYI)Sayısının küpü :(kup)")
